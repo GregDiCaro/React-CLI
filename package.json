@@ -1,0 +1,32 @@
+{
+  "name": "@dicarogreg/holidates",
+  "version": "1.1.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "axios": "^0.20.0",
+    "chalk": "^4.1.0",
+    "country-list": "^2.2.0",
+    "figlet": "^1.5.0",
+    "holidates": "^1.0.0",
+    "ora": "^5.1.0",
+    "request": "^2.88.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GregDiCaro/React-CLI.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GregDiCaro/React-CLI/issues"
+  },
+  "homepage": "https://github.com/GregDiCaro/React-CLI#readme",
+  "bin": {
+    "holidates": "index.js"
+  }
+}
