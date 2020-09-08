@@ -31,7 +31,7 @@ npm install @dicarogreg/holidates
 [](https://www.npmjs.com/package/@dicarogreg/holidates#version)Version
 ---------------------------------------------------------------------
 
-1.1.0
+1.1.1
 
 ###### [](https://www.npmjs.com/package/@dicarogreg/holidates#keywords)Keywords
 
